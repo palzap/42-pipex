@@ -1,5 +1,6 @@
 # Pipex
 
+## Overview
 The goal of this project is to create a program that takes in four arguments:
 
 * file1: an input file
